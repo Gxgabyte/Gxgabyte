@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gxgabyte, also known as Tim. I am 18 years old.
 - 👀 I’m interested in playing Tennis, the Piano, sometimes Basketball and traveling
 - 🌱 I’m currently learning for my Abitur, see Fun facts.
-- 📫 How to reach me: via my Instagram (@timlei12345) or via my E-Mail: private@mail.timlei.de
+- 📫 How to reach me: via my Instagram (@timlei12345) or via my E-Mail: tim@timlei.de
 - 😄 Pronouns: he/him
 - ⚡ Fun facts:
   - I live in the smallest State of Germany (which is not a German City State) called the Saarland
