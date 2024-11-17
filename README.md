@@ -7,7 +7,8 @@
   - I live in the smallest State of Germany (which is not a German City State) called the Saarland
   - I have a Cambridge Certificate in Advanced English (C1) and I'm currently working on a C2 level
   - Apart from English, I speak German (my native language), Spanish and French (a little)
-  - I'm a 12th grade student and about to finish school with the 'Abitur', equivalent to the High school diploma or the A-Levels
+  - (I'm a 12th grade student and about to finish school with the 'Abitur', equivalent to the High school diploma or the A-Levels)
+  - Update: I successfully finished school and am now studying English and Spanish for teachers at Saarland University (Universität des Saarlandes)
 
 <!---
 Gxgabyte/Gxgabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
